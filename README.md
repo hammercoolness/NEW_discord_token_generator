@@ -1,0 +1,2 @@
+# NEW_discord_token_generator
+discord_token_generator
